@@ -1,0 +1,24 @@
+{
+  "name": "Mi-primer-servidor-Michel",
+  "version": "1.0.0",
+  "description": "Mi primer servidor en express, hecho en repli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mm23-afk/Mi-primer-servidor-Michel.git"
+  },
+  "keywords": [],
+  "author": "Michel Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mm23-afk/Mi-primer-servidor-Michel/issues"
+  },
+  "homepage": "https://github.com/mm23-afk/Mi-primer-servidor-Michel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
